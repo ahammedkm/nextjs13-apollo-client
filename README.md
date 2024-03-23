@@ -21,5 +21,4 @@ In this article, you'll discover how to set up and use Apollo Client in the new 
 
 
 
-Read the entire article here: [https://codevoweb.com/setup-and-use-apollo-client-in-nextjs-13-app-directory/](https://codevoweb.com/setup-and-use-apollo-client-in-nextjs-13-app-directory/)
 
